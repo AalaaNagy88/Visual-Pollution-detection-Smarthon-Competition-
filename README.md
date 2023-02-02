@@ -11,7 +11,7 @@ pollutants, their type, and their location in real-time to city officials and di
 dashboard, allowing them to take immediate action and keep the city clean.*
 <img src="project_images\f2.PNG" width="500px" hight="500px"/> 
 
-[Demo](https://huggingface.co/spaces/alshimaa/SEE)
+[Demo](https://huggingface.co/spaces/Aalaa/Visual_Pollution_detection)
 
 [app](https://drive.google.com/file/d/1-0rna-jzAHyEjBUvbf3qIy2G3foGiIZo/view?usp=sharing)
 
@@ -19,7 +19,7 @@ dashboard, allowing them to take immediate action and keep the city clean.*
 ## ***Training and detection***
 
 
-- download and run the [notebook](https://drive.google.com/file/d/1OrQnXXaFTzuo6-_7malWLoszdM8pgjuX/view?usp=sharing)
+- download and run the [notebook](https://colab.research.google.com/drive/1mo3HxJrg8wDGp_FhkB_0qAs41XvQ3hjR?usp=sharing)
 
 -  For **Training** you will need to download [this yaml](https://drive.google.com/file/d/1fntLs720iULfH-cgd2kTcbeaPRwUWymp/view?usp=sharing) file in the folder "./dataset/yolov7/data/" ,  and you will need to change number of classes nc = 80 to nc=11 in ./dataset/yolov7/cfg/training/yolov7.yaml 
 
